@@ -2,15 +2,7 @@
 # AIM:
 
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
-# EQUIPMENTS REQUIRED:
 
-
-
-# IP ASSIGNMENT:
-
-
-
-# NETWORK DIAGRAM:
 # PROCEDURE:
 
 STEP 1: Open a Packet Tracer Software.
@@ -79,6 +71,11 @@ You can also check connectivity between the PCs on different networks to ensure 
 •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
  
 # OUTPUT
+<img width="751" height="1280" alt="image" src="https://github.com/user-attachments/assets/77d3a104-cc3d-40c3-aa10-4b11120efe6e" />
+
+<img width="984" height="1280" alt="image" src="https://github.com/user-attachments/assets/139ac9ce-9be5-45ea-8d7f-733fed0730c3" />
+
+
 
 
 
